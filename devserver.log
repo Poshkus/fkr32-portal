@@ -1,0 +1,38 @@
+
+> frpikp-portal@1.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  [32m[1mVITE[22m v6.0.0[39m  [2mready in [0m[1m1044[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.103:[1m5174[22m/[39m
+[2m14:27:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m14:27:58[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m14:27:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m14:27:58[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m14:31:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m14:31:30[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m14:31:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m14:31:30[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m20:56:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m20:56:36[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m20:56:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m20:56:36[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m20:56:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m20:56:36[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m21:18:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m21:18:41[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m21:18:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m21:18:41[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m21:47:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m21:47:07[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m21:47:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m21:47:07[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m21:47:25[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m21:47:25[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m21:47:25[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m21:47:25[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/example.html[22m
+[2m22:42:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
+[2m22:42:27[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.od-skills/web-prototype/assets/template.html[22m
